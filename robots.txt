@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cytentif.github.io/sitemap.html.gz
+Sitemap: https://cytentif.github.io/app/sitemap.html.gz
+Sitemap: https://cytentif.github.io/assets/sitemap.html.gz
+Sitemap: https://cytentif.github.io/css/sitemap.html.gz
+Sitemap: https://cytentif.github.io/includes/sitemap.html.gz
+Sitemap: https://cytentif.github.io/item/sitemap.html.gz
+Sitemap: https://cytentif.github.io/src/sitemap.html.gz
